@@ -40,11 +40,16 @@ Found an improvement or an addition that could benefit everyone? We'd love to pu
 |--------------|-------------|------------------|
 | Example Control | Example Description | [Link to policy] |
 
-### Regular Processes
+### Regular InfoSec Activities
 
-| Process Name | Frequency | Policy Reference |
-|--------------|-----------|------------------|
-| Example Process | Quarterly | [Link to policy] |
+| Activity                           | Description                                                                           | Frequency   | Policy Reference                    |
+|-----------------------------------|---------------------------------------------------------------------------------------|-------------|------------------------------------|
+| Threat Intelligence Analysis      | Analyze external threat intelligence sources and news regarding security incidents.   | As needed   | [Threat Intelligence Policy](#)    |
+| Vendor Assessments                | Review third-party vendors to assess their security posture.                          | As needed   | [Third-Party Vendor Assessment Policy](#)|
+| Vulnerability Scanning            | Scan systems for vulnerabilities to ensure security posture remains robust.          | Quarterly   | [Third-Party Vendor Assessment Policy](#)|
+| Penetration Testing               | Conduct a penetration test to identify and rectify potential security vulnerabilities.| Annually    | [Third-Party Vendor Assessment Policy](#)|
+| Incident Response Drills          | Practice incident response scenarios to ensure readiness.                            | Annually    | [Incident Response Policy](#)      |
+| Security Awareness Training       | Educate employees on security best practices and potential threats.                  | Annually    | [Information Security Policy](#)   |
 
 ## Contributing
 
